@@ -1,0 +1,23 @@
+
+html{
+    scroll-behavior: smooth;
+}
+a {
+  display: inline-block;
+  width: 50px;
+  text-decoration: none;
+}
+
+nav {
+  width: 339px;
+  padding: 5px;
+  border: 1px solid rgb(23, 160, 41);
+}
+
+scroll-page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  font-size: 5em;
+}
